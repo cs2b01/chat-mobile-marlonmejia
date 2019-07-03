@@ -8,12 +8,14 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="-220dp"
+        tools:layout_editor_absoluteY="-84dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Contacts"
-            />
+            android:text="Contacts" />
     </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>
