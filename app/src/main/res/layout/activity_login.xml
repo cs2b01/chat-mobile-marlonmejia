@@ -29,7 +29,11 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+<<<<<<< HEAD
                 android:text="201810682 - Marlon Mejia Ramon"/>
+=======
+                android:text="201810682 - Marlon Corentino Mejia Ramon"/>
+>>>>>>> baa63c27be21d841eb0375b9e66ea5e493229b18
 
         </LinearLayout>
 
